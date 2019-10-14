@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import marked from 'marked';
 import DOMPurify from 'dompurify';
-import './App.css';
+import '../App.css';
 
 class App extends React.Component {
   constructor(props) {
