@@ -1,4 +1,14 @@
+# Markdownpreviewer-react
+
+Markdown previewer using React with HTML, CSS, and JavaScript.  Part of freeCodeCamp Front End Libraries certificate projects.
+
+## Installation
+
+Download the file [here](https://github.com/Stevegolden12/markdownpreviewer-react)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the root folder use the following scripts:
 
 ## Available Scripts
 
@@ -66,3 +76,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgement
+
+Thank you to Freecodecamp for helping me learn React!
